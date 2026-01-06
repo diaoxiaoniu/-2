@@ -1,0 +1,5 @@
+{
+  "name": "ZenWeather",
+  "description": "A premium, Apple-aesthetic weather dashboard featuring high-fidelity CSS physics animations for rain, snow, sun, and wind conditions.",
+  "requestFramePermissions": []
+}
